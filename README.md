@@ -3,7 +3,7 @@
     
   </a>
   <p align="center">
-   <img width="150" height="150" src="" alt="Logo">
+    <img width="150" height="150" src="https://raw.githubusercontent.com/fdantasr/mirage-experience/staging/.redesign-assets/logo.png" alt="Logo">
   </p>
   <h1 align="center"><b>Mirage Experience</b></h1>
   <p align="center">
@@ -12,7 +12,7 @@
     <a href=""><strong>mirageexperience »</strong></a>
     <br />
     <br />
-    <b>Download for </b>
+    <b>Download for </b> 
     macOS
     ·
     Windows
