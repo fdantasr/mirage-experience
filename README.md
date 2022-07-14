@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-     <img width="150" height="150" src="https://raw.githubusercontent.com/fdantasr/mirage-experience/staging/.redesign-assets/logo.png" alt="Logo">
+     <img width="150" height="150" src="https://raw.githubusercontent.com/fdantasr/mirage-experience/staging/.redesign-assets/logo.png"/>
      
   </a></p>
   <p align="center">
