@@ -9,7 +9,7 @@
   <p align="center">
   The new era of user experience and integrations
     <br />
-    <a href="https://spacedrive.com"><strong>mirageexperience »</strong></a>
+    <a href=""><strong>mirageexperience »</strong></a>
     <br />
     <br />
     <b>Download for </b>
