@@ -1,9 +1,7 @@
 <p align="center">
   <a href="#">
-     <img width="150" height="150" src="https://raw.githubusercontent.com/fdantasr/mirage-experience/.redesign-assets/logo.png"/>
-     ![Rectangle_4-removebg-preview](https://user-images.githubusercontent.com/62207970/179067421-314b5ad6-e7ff-4d3f-8eb1-3d5555705a9d.png)
-
-  </a></p>
+     <img width="150" height="150" src="https://user-images.githubusercontent.com/62207970/179067421-314b5ad6-e7ff-4d3f-8eb1-3d5555705a9d.png"/>
+     
   <p align="center">
   </p>
   <h1 align="center"><b>Mirage Experience</b></h1>
