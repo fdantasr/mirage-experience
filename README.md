@@ -1,9 +1,9 @@
 <p align="center">
   <a href="#">
-    
-  </a>
+     <img width="150" height="150" src="https://raw.githubusercontent.com/fdantasr/mirage-experience/staging/.redesign-assets/logo.png" alt="Logo">
+     
+  </a></p>
   <p align="center">
-    <img width="150" height="150" src="https://raw.githubusercontent.com/fdantasr/mirage-experience/staging/.redesign-assets/logo.png" alt="Logo">
   </p>
   <h1 align="center"><b>Mirage Experience</b></h1>
   <p align="center">
